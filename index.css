@@ -1,0 +1,62 @@
+#bor{
+          border: 1px dotted;
+          margin-top: 15px;
+          padding: 5px;
+          
+}
+#head{
+       height: 120px;
+       background-color: cornflowerblue;
+}
+
+#h1{
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+}
+#h4{
+    text-align: center;
+    color: white;
+}
+#body{
+    display: flex;
+}
+
+#info{
+    
+    padding-left: 30px;
+    width: 500px;
+}
+
+#imge{
+    width: 120px;
+    padding-top: 23px;
+}
+
+img{
+    width: 120px;
+    height: 120px;
+}
+
+input[type="text"],[type="email"]{
+    width: 350px;
+    margin-bottom: 5px;
+}
+
+button{
+     width: 360px;
+     color: white;
+     font-weight: 700;
+     background-color: blueviolet;
+}
+
+#abo,#mys,#con{
+    color: blueviolet;
+    border-bottom: 0.5px solid black;
+}
+
+div{
+
+    margin: 20px 0px 0px 150px;
+}
+
