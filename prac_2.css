@@ -1,0 +1,91 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    text-align: center;
+}
+.men{
+    display: inline;
+    margin-right: 10px;
+   
+}
+
+ul{
+    text-align: center;
+}
+
+#info{
+      background-color: cadetblue;
+      display: flex;
+      height: 400px;
+     /* padding-left: 300px;*/
+}
+
+#pro{
+    background-color: white;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 8%;
+    margin: 10px;
+}
+
+#profile{
+       border-radius: 100%;
+       width: 130px;
+       height: 130px;
+       padding: 25px;
+}
+#rec{
+    width: 200px;
+    border-radius: 8%;
+    margin: 10px;
+     
+}
+#sign{
+   
+    width: 200px;
+    border-radius: 8%;
+    margin: 10px;
+}
+
+#image{
+    background-color:white ;
+    color: black;
+    height: 190px;
+    border-radius: 8%;
+}
+
+img{
+    width: 200px;
+    height: 190px;
+    border-radius: 8%;
+}
+#hm{
+    text-align: center;
+    
+}
+#menu{
+    background-color:white ;
+    color:black;
+    height: 195px;
+    border-radius: 8%;
+}
+
+#hm{
+    text-align: center;
+    font-weight: 650;
+    font-size:20px;
+    padding-top: 10px;
+}
+
+#blank{
+    background-color:black;
+    height: 170px;
+    border-radius: 8%;
+}
+#form{
+    background-color:white ;
+    color:black;
+    height: 210px;
+    border-radius: 8%;
+}
